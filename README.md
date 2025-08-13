@@ -14,5 +14,5 @@ mvn -q -DskipTests exec:java
 
 ## Rodar os testes
 ```bash
-mvn -q test
+mvn -e test
 ```
